@@ -5,6 +5,7 @@
 
 ## 编译
 放到安卓源码external目录下。
+
 ``` bash
 $ cd [your_android_source_dir]
 $ source build/envsetup.sh
